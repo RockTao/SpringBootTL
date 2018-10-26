@@ -11,6 +11,9 @@ public class MyManager implements BaseManager {
 	@Override
 	public void logic() {
 		System.out.println("我在慕课网学习了-----------热加载案例---------1111111");
+		
+		
+		
 		System.out.println("我在慕课网学习了------------热加载案例---------2222222");
 	}
 
